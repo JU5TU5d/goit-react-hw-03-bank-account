@@ -1,0 +1,11 @@
+.balance {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.summHistory {
+  color: #5c6975;
+  margin-right: 20px;
+}

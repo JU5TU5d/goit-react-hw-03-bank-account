@@ -1,0 +1,33 @@
+.controls {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #062c56;
+}
+
+.controls input {
+  width: 260px;
+  height: 40px;
+  padding: 5px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.controls input:focus {
+  border: 1px solid gold;
+}
+
+.controls button {
+  width: 180px;
+  height: 40px;
+  text-align: center;
+  padding: 5px 0;
+  margin-right: 10px;
+  background-color: #3884ff;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}

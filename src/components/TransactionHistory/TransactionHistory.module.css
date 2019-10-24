@@ -1,0 +1,21 @@
+.history {
+  text-align: center;
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.history th {
+  font-size: 20px;
+  padding: 10px 0;
+  width: 290px;
+  font-size: 13px;
+  background-color: #ebeef2;
+  border: 1px solid #666;
+}
+
+.history td {
+  border: 1px solid #666;
+  padding: 10px 0;
+}
